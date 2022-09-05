@@ -6,5 +6,14 @@
 * Email: zhubatkankz@gmail.com
 * GitHub: [thesanzhar](https://github.com/thesanzhar)
 
-## About me
+## Skills
 
+* HTML
+* CSS (Bootstrap, Tailwind)
+* JavaScript Basics
+* Git, GitHub
+* Figma
+
+## Education
+
+* University: Al-Farabi Kazakh National University, Information Systems major
