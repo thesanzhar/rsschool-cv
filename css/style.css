@@ -1,0 +1,41 @@
+.cv-info h1,
+.cv-info h2,
+.cv-info h3,
+.cv-info h4,
+.cv-info h5,
+.cv-info h6 {
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.cv-info h1 {
+  padding-bottom: 0.3em;
+  font-size: 2em;
+  border-bottom: 1px solid #eaecef;
+}
+
+.cv-info h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.5em;
+  border-bottom: 1px solid #eaecef;
+}
+
+.cv-info ul,
+.cv-info ol {
+  padding-left: 2em;
+}
+
+.cv-img-block {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.cv-img-block img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
