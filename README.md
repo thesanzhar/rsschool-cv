@@ -1,1 +1,1 @@
-https://thesanzhar.github.io/rsschool-cv/cv
+https://thesanzhar.github.io/rsschool-cv/
